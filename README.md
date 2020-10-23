@@ -4,13 +4,11 @@ By default it's run in **localhost:8080** with **local** profile
 
 `It's required Java 1.8 version.`
 
-Configuration
----------
-No properties defined
+To access to the database **localhost:8080/h2-console/login.do**
+`Password: password`
 
-Endpoints
----------
-The swagger's definition is in `/swagger-ui.html`, for example: `http://localhost:8080/swagger-ui.html`
+
+
 
 All services response errors with this structure:
 ```json
